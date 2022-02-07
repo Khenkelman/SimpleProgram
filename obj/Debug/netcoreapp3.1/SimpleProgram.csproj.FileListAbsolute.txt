@@ -1,0 +1,13 @@
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.exe
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.deps.json
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.runtimeconfig.json
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.runtimeconfig.dev.json
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.dll
+C:\Users\khenk\Documents\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.pdb
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.csprojAssemblyReference.cache
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.AssemblyInfoInputs.cache
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.AssemblyInfo.cs
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.dll
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.pdb
+C:\Users\khenk\Documents\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.genruntimeconfig.cache
